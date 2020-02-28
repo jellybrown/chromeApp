@@ -24,7 +24,7 @@ function askForName() {
 function paintGreeting(text) {
   form.classList.remove(SHOWING_CN); //텍스트를 색칠할거라면 폼을 숨겨
   greeting.classList.add(SHOWING_CN);
-  greeting.innerText = `Hello ${text}`;
+  greeting.innerText = `반가워! ${text}`;
 }
 
 function loadName() {
