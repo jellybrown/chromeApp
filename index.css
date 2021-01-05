@@ -80,7 +80,6 @@ ul li {
 .js-toDoForm {
   display: flex;
   justify-content: center;
-
   height: 40px;
 }
 
@@ -102,6 +101,23 @@ input:focus {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+.js-toDoList {
+  padding: 0;
+  margin: 0;
+}
+.js-toDoList li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.js-toDoList button {
+  border: none;
+  background: #fff;
+  padding: 8px 12px;
+  margin-right: 50px;
+  cursor: pointer;
 }
 
 .js-weather {
