@@ -40,6 +40,11 @@ ul li {
 
 .showing {
   display: block;
+  opacity: 1;
+}
+
+.hide {
+  opacity: 0;
 }
 
 @keyframes fadeIn {
