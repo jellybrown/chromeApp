@@ -29,4 +29,4 @@
 
 <br>
 
-<img src="https://github.com/jellybrown/chromeApp/blob/master/chrome-apps-2.gif" width="800">
+<img src="https://github.com/jellybrown/chromeApp/blob/master/chrome-apps-2.gif" width="700">
